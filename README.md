@@ -40,7 +40,7 @@ L'objectif de cette formation est de me spécialiser dans le graphisme (communic
 2023 -> Cabinet de kinésithérapie SELARL Frédérique Vincent-Velghe : Assistante en Communication interne (contrat Alternance Bachelor), créations d'affiches, réalisation d'une étude et annalyse pour moderniser les outils de communication du cabinet.
 2023-2025 -> Cabinet de kinésithérapie SELARL Frédérique Vincent-Velghe : Assistante en Communication interne (contrat Alternance DEUST), propositions et mise en pratique de l'étude des nouveaux supports de communications (créations d'afffiches/vidéos/photos dynamiques/blog en cours).
 
-- ## Quelques projets (en cours)🌱
+- ## Quelques projets (en cours) 🌱
 
 Mon site porfolio : 
 Mon CV Github
